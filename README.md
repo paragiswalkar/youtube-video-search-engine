@@ -12,7 +12,7 @@ First of all you need to create Google Project to get API Key.
 - Finaly we got API Key now move to Coding.
 - Now Add JavaScript Main code: ADD_YOUR_API_KEY_HERE replace your API Key with this (in /js/myscript.js file).
 
-Above JavaScript do all works Request API’s and fetch data from YouTube ADD_YOUR_API_KEY_HERE replace your API Key.
+In JavaScript (/js/myscript.js) file do all works Request API’s and fetch data from YouTube ADD_YOUR_API_KEY_HERE replace your API Key.
 
 searchYoutube() This function search all videos for given key
 
